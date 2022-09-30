@@ -42,13 +42,13 @@
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.16,
         "min_via_diameter": 0.4,
-        "solder_mask_clearance": 0.05,
+        "solder_mask_clearance": 0.09999999999999999,
         "solder_mask_min_width": 0.0,
         "solder_paste_clearance": 0.0,
         "solder_paste_margin_ratio": -0.0
       },
       "track_widths": [
-        0.25,
+        0.2,
         0.2,
         0.3,
         0.4,
@@ -66,7 +66,9 @@
         2.0,
         2.5,
         3.0,
+        3.5,
         4.0,
+        4.5,
         5.0
       ],
       "via_dimensions": [
@@ -292,7 +294,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "spot2.kicad_pro",
+    "filename": "spot.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -360,6 +362,23 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "a34706e5-5255-4f9c-b9a1-279bcbad6f43",
+      ""
+    ],
+    [
+      "00000000-0000-0000-0000-00005f48b5bd",
+      "USB_WritePCB"
+    ],
+    [
+      "00000000-0000-0000-0000-00005f230639",
+      "Spot_PowerPCB"
+    ],
+    [
+      "00000000-0000-0000-0000-00005f24000b",
+      "Spot_CtrlPCB"
+    ]
+  ],
   "text_variables": {}
 }
