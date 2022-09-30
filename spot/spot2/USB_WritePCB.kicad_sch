@@ -1,6 +1,10 @@
 (kicad_sch (version 20211123) (generator eeschema)
 
+<<<<<<< HEAD
   (uuid 71ef4672-0b96-4764-9ab0-9e1206e8a8df)
+=======
+  (uuid 2169130a-f9f8-44ec-a79c-631e4060d1d9)
+>>>>>>> 0fd99b16459c5a8d85fa99252d50ce1534f003db
 
   (paper "A4")
 
