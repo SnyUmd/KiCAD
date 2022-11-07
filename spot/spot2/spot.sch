@@ -1,5 +1,5 @@
-EESchema Schematic File Version 4
-EELAYER 30 0
+EESchema Schematic File Version 5
+EELAYER 36 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -12,18 +12,23 @@ Comment1 ""
 Comment2 ""
 Comment3 ""
 Comment4 ""
+Comment5 ""
+Comment6 ""
+Comment7 ""
+Comment8 ""
+Comment9 ""
 $EndDescr
-$Sheet
-S 2500 1450 3300 1100
-U 5F230639
-F0 "Spot_PowerPCB" 197
-F1 "Spot_PowerPCB.sch" 197
-$EndSheet
 $Sheet
 S 6500 3850 3300 1100
 U 5F24000B
 F0 "Spot_CtrlPCB" 197
 F1 "Spot_CtrlPCB.sch" 197
+$EndSheet
+$Sheet
+S 2500 1450 3300 1100
+U 5F230639
+F0 "Spot_PowerPCB" 197
+F1 "Spot_PowerPCB.sch" 197
 $EndSheet
 $Sheet
 S 2450 5800 3300 1200
