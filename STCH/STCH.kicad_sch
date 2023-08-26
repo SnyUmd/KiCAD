@@ -1,0 +1,31 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid fa80af5a-b834-49eb-883d-e1108ab893ed)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 40.64 27.94) (size 15.24 3.81) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid b73b07c3-282b-4f09-b2c3-dd508564e652)
+    (property "Sheetname" "STCHブロック図" (at 40.64 27.2284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "STCHブロック図.kicad_sch" (at 40.64 32.3346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "STCH"
+        (path "/fa80af5a-b834-49eb-883d-e1108ab893ed" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
