@@ -1,0 +1,31 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid e1f40b3d-1512-4a7a-94e3-6b28dff0966f)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 30.48 31.75) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 05504c42-6c6f-4e7c-b4cc-b6f916158c47)
+    (property "Sheetname" "APDS-9930ALS" (at 30.48 31.0384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "APDS-9930ALS_sch.kicad_sch" (at 30.48 36.1446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "KeyCheck"
+        (path "/e1f40b3d-1512-4a7a-94e3-6b28dff0966f" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
